@@ -1,0 +1,23 @@
+Francisco Javier Alas Alas 00098322
+
+1¿Qué es ser autodidacta?
+2 Investigar qué son matrices.
+3 listar 3 fuentes de donde aprender a programar.
+
+1. Es ser alguien que se exige  el mismo a aprender algo que necesita para un examen, trabajo, etc.
+
+2 Un arreglo o matris es una coleccion ordenada de datos , las matrices se emplean para almacenar multiples valores en unsa sola variable frente a las variables que solo pueden almacenar un valor,ya que puede almacenar varias variables del mismo tipo en una estructura de datos de matriz, puede declarar una matriz mediante la especificacion del tipo de sus elementos.
+
+Todos los programas que son creados tienen un diferentes tipos de formato, este formato es conocido como la sintaxis.
+
+#include  
+int main()
+{
+    printf("Hola Mundo");      return 0;
+return 0;
+}
+
+3 
+Cristian Leon: Programacion en C Ciclo For
+Curso Programacion ATS 
+https://www.hostgator.mx/blog/aprender-a-programar-en-c/
